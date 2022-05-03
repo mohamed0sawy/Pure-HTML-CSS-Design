@@ -2,5 +2,5 @@
   In this repo, I used pure HTML and CSS trying to show different techniques and some animations.
   I hope you like it.
 
-## ling to preview 
+## link to preview 
 https://mohamed0tarek.github.io/Pure-HTML-CSS-Design-1/
