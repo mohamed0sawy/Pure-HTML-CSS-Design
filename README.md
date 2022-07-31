@@ -3,4 +3,4 @@
   I hope you like it.
 
 ## link to preview 
-https://mohamed0tarek.github.io/Pure-HTML-CSS-Design-1/
+https://mohamed0tarek.github.io/Pure-HTML-CSS-Design/
