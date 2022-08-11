@@ -5,7 +5,7 @@ For this Website, I used pure HTML and CSS trying to show different techniques t
 
 ## Technologies
 * HTML
-* CSS
+* CS          S
 
 ## link to preview 
 https://mohamed0tarek.github.io/Pure-HTML-CSS-Design/
