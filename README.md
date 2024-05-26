@@ -8,4 +8,4 @@ For this Website, I used pure HTML and CSS trying to show different techniques t
 * CSS
 
 ## link to preview 
-https://mohamed0tarek.github.io/Pure-HTML-CSS-Design/
+https://mohamed0sawy.github.io/Pure-HTML-CSS-Design/
